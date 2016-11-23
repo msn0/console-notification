@@ -1,0 +1,23 @@
+{
+  "name": "console-notification",
+  "version": "1.0.0",
+  "description": "console.log as Notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msn0/console-notification.git"
+  },
+  "keywords": [
+    "console",
+    "notification"
+  ],
+  "author": "Michał Jezierski <ambinanitelo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msn0/console-notification/issues"
+  },
+  "homepage": "https://github.com/msn0/console-notification#readme"
+}
